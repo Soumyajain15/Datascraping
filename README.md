@@ -1,4 +1,3 @@
-# Datascraping
 # Data Scraping with UiPath RPA
 
 This repository contains a **UiPath RPA (Robotic Process Automation)** project designed to perform **data scraping** from web pages. The bot extracts structured data from websites and stores it in a predefined format (such as Excel, CSV, or a database). The goal of this project is to demonstrate the power of **UiPath RPA** in automating repetitive tasks like web scraping.
